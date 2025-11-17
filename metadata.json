@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Job Search Agent",
+  "description": "An AI Agent that finds jobs, analyzes your skills by comparing your resume with job descriptions, and provides personalized recommendations and preparation materials.",
+  "requestFramePermissions": []
+}
